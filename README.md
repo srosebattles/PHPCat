@@ -1,1 +1,1 @@
-A very basic exercise covering some PHP syntax
+A very basic exercise covering some PHP syntax.
